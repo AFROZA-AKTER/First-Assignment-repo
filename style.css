@@ -5,6 +5,7 @@ body{
     color:rgb(250, 118, 10);
 }
 h1{
+    
     font-size:40px;
     font-weight:900;
     line-height:30px;
@@ -26,20 +27,40 @@ p{
 a{
     line-height:100px;
 }
-.first-part{
+.partition{
     display:flex;
    
 }
+.text-decoration{
+    margin-top:5%;
+} 
+
 .half-width{
     width:40%;
     
     padding-left: 5%;
-    
-    
-    
-
 }
 .half-width img{
     width:100%;
     
 }
+h2{
+    color:rgb(88, 78, 78);
+}
+.half-width-2{
+    width:40%;
+    
+    padding-left: 5%;
+    }
+    .half-width-2 img{
+        width:60%;
+    }
+    .banner-added{
+        margin-top:5%;
+        background-image: url(food-network-main/images/shapes/7.png);
+        background-repeat: no-repeat;
+    }
+    .third-part{
+        text-align: center;
+        margin-top:5%;
+    }

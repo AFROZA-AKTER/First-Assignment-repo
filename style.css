@@ -64,3 +64,22 @@ h2{
         text-align: center;
         margin-top:5%;
     }
+    .division{
+        width:30%;
+        border-radius: 20px;
+        margin-left:2%;
+        margin-right:2%;
+        margin-top:5%;
+        
+        box-shadow:15px 15px 40px gray;
+    }
+    .division img{
+        width:100%;
+        height:50%;
+        border-radius: 20px;
+        
+        
+    }
+    .text-decoration2{
+        padding-left:5%;
+    }

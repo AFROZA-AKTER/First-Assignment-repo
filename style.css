@@ -83,3 +83,11 @@ h2{
     .text-decoration2{
         padding-left:5%;
     }
+.ending-part{
+    background:black; 
+    background-size: 30%;
+    height:100px;
+    margin-top:10%;
+    text-align: center;
+    
+}
